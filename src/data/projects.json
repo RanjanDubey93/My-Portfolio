@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Portfolio Website ",
+    "imageSrc": "/assets/projects/project4.jpg",
+    "description": "Created my portfolio website using React.Deployed the project using netlify",
+    "skills": ["HTML", "CSS", "JavaScript","React","Netlify","Vite"],
+    "demo": "https://github.com/RanjanDubey93/My-Portfolio",
+    "source": "https://github.com/RanjanDubey93/My-Portfolio"
+  },
+  {
+    "title": "E-Commerce | Cloth Ordering Website | UI",
+    "imageSrc": "/assets/projects/project1.jpg",
+    "description": "Implemented UI of Cloth ordering e-commerce website with user authentication",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://github.com/RanjanDubey93/E-Commerce-Cloth-Ordering-UI",
+    "source": "https://github.com/RanjanDubey93/E-Commerce-Cloth-Ordering-UI"
+  }
+  ,
+  {
+    "title": "Spotify Clone | Music Library | UI Cloning",
+    "imageSrc": "/assets/projects/project3.jpg",
+    "description": "Implemented Spotify- music app UI clone with features like seek, volume control. Made the site responsive",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/RanjanDubey93/Spotify-Clone-UI"
+  }
+]
